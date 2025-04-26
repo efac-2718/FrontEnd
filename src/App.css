@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.Heading{
+  text-align: left;
+  background-color: white;
+  color: dodgerblue;
+  text-decoration-line: underline;
+  font-size: 20px;
+}
+
+.button{
+  text-align: center;
+  color: black;
+  background-color: #1c5ae5;
+  border: none;
+  margin-left: 500px;
+  margin-top: 50px;
+}
